@@ -10,5 +10,6 @@
 ![05b-storage-overview.png](https://github.com/user-attachments/assets/b316fafc-3304-4c44-b5b1-fec21fdb31c7)
 ![06-backup-vault.png](https://github.com/user-attachments/assets/99ce2ec1-171e-426b-b52e-e3bb6d0a56a1)
 ![07-azure-advisor.png](https://github.com/user-attachments/assets/c62ce150-642e-4891-8b96-77aaeb786808)
+<img width="957" height="419" alt="08-cleanup-confirmation" src="https://github.com/user-attachments/assets/ef3f730b-8ddf-4761-ab75-7d1edee39a17" />
 
 
